@@ -8,9 +8,8 @@ Day 1
 [options="header"]
 |=======================================================
 | Start   | End        | Session
-| 8:00    | 8:30       | Breakfast
-| 8:30    | 9:00       | Agenda + Introductions
-| 9:00    | 10:00      | PCF 101
+| 9:30    | 9:40       | Agenda + Introductions
+| 9:40    | 10:00      | PCF 101
 | 10:00   | 10:30      | CF Push [hands-on lab]
 | 10:30   | 10:45      | Break 
 | 10:45   | 11:15      | Cloud Native Concepts
